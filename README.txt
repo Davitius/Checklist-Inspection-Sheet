@@ -35,7 +35,7 @@ password: 123456
 
 Database installation instructions:
 Create a database in Mysql named: projectsdb
-Import the 3 files in the Database folder.
+Import the 3 files from the Database folder.
 
 =============================================================
 
